@@ -53,7 +53,7 @@ The classification scheme we followed:
 Table 1. Site Measurements
 
 | Variable                                  | Value   | Source                  |
-|-------------------------------------------|---------|-------------------------|
+|:---:|---------|-------------------------|
 | Bankfull Width                            | 7.0366m | CHaMP                   |
 | Bankfull Depth Max                        | 0.9116m | CHaMP                   |
 | Bankfull Depth Average                    | 0.345m  | CHaMP                   |
