@@ -50,6 +50,7 @@ Using the Rosgen classification scheme, our replication will be deemed successfu
 The classification scheme we followed:
 ![Rosgen Classification](assets/RosgenScreenshot.png)
 
+
 Table 1. Site Measurements
 
 | Variable                                  | Value   | Source                  |
@@ -63,6 +64,7 @@ Table 1. Site Measurements
 | Valley Length                             | 139.41m | valleyLine derived data |
 | Median Channel Material Particle Diameter | 50      | CHaMP                   | 
 
+
 Table 2. Rosgen Level I Classification
 
 | Critera             | Value   |
@@ -71,6 +73,7 @@ Table 2. Rosgen Level I Classification
 | Width / Depth Ratio | 20.3959 |
 | Sinuosity           | 1.31    |
 | Level I Stream Type | C       |
+
 
 Table 3. Rosgen Level II Classification
 
