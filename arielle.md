@@ -51,6 +51,7 @@ The classification scheme we followed:
 ![Rosgen Classification](assets/RosgenScreenshot.png)
 
 Table 1. Site Measurements
+
 | Variable                                  | Value   | Source                  |
 |-------------------------------------------|---------|-------------------------|
 | Bankfull Width                            | 7.0366m | CHaMP                   |
@@ -63,6 +64,7 @@ Table 1. Site Measurements
 | Median Channel Material Particle Diameter | 50      | CHaMP                   | 
 
 Table 2. Rosgen Level I Classification
+
 | Critera             | Value   |
 |---------------------|---------|
 | Entrenchment Ratio  | 12.79   |
@@ -71,6 +73,7 @@ Table 2. Rosgen Level I Classification
 | Level I Stream Type | C       |
 
 Table 3. Rosgen Level II Classification
+
 | Critera              | Value           |
 |----------------------|-----------------|
 | Slope                | 4.956           |
