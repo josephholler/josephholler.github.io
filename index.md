@@ -31,4 +31,4 @@ new row | | blank centered
 
 ## Liam Smith
 
-1. [Liam Smith](open-giscience)
+1. [Liam Smith](laim-smith)
