@@ -10,3 +10,6 @@ Just an image:
 
 Image with a link:
 [![GitHub Logo](assets/GitHub-Mark.png)](https://github.io)
+
+:)
+friendly webpage
