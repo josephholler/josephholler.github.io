@@ -28,3 +28,7 @@ new row | | blank centered
 ## Blog Posts
 
 1. [Open GIScience](open-giscience)
+
+## Liam Smith
+
+1. [Liam Smith](open-giscience)
