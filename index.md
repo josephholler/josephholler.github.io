@@ -3,9 +3,9 @@ layout: default
 title: Main Page
 ---
 
-Find publications through my ORCID:[0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
+Publications according to my ORCID:[0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
 
-Here are some more interesting things that I have been involved in:
+Recent projects and activities:
 
 - Reproducibility and Replicability in the human-environment and geographical sciences
   - [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R)
@@ -25,9 +25,9 @@ I earned my bachelor's degree in anthropology/archeology, computer science, and 
 After graduating, I taught math and information technology in Tanzanian secondary schools as a Peace Corps volunteer---first in the outskirts of Mwanza and then in Bukoba.
 I discovered geography through Ihungo Secondary School's advanced-level history-geography-economics (HGE) concentration and agricultural extension officers tracking locusts with global positioning systems, and did some internet research on graduate programs in geographic information systems (GIS) while on a bike trip to visit an information technology NGO in Kayanga.
 
-When I returned to the United States, I enrolled in a Geogrpahy PhD and Geographic Information Science (GISCience) NSF IGERT (Integrative Graduate Education and Research Traineeship) Fellowship at the National Center for Geographic Information and Analysis (NCGIA) at SUNY Buffalo.
+When I returned to the United States, I enrolled in a Geography PhD and Geographic Information Science (GISCience) NSF IGERT (Integrative Graduate Education and Research Traineeship) Fellowship at the National Center for Geographic Information and Analysis (NCGIA) at SUNY Buffalo.
 I returned to Tanzania to work with the Jane Goodall Institute in Dar es Salaam and Moshi in preparation for dissertation research on climate change vulnerability and adaptation on Mount Kilimanjaro.
 
 Just as I was finishing my dissertation in 2012, the University of Mary Washington needed a one year leave replacement for Stephen Hannah's sabbatical researching historical monuments in Fredericksburg, VA.
-The next year, I joined Middlebury College as a GIS Teaching Fellow.
+The next year, I joined the [Middlebury College Department of Geography](https://www.middlebury.edu/college/academics/geography) as a GIS Teaching Fellow.
 I am now an assistant professor at Middlebury, teaching courses on hazards, GIS, Open GIScience, and climate adaptation and development.
