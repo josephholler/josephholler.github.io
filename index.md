@@ -3,9 +3,10 @@ layout: default
 title: Main Page
 ---
 
-Publications according to my ORCID:[0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
+ORCID [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) 0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
 
-Recent projects and activities:
+
+## Recent projects and activities
 
 - Reproducibility and Replicability in the human-environment and geographical sciences
   - [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R)
