@@ -3,32 +3,16 @@ layout: default
 title: Main Page
 ---
 
-# This is a heading
+Find publications through my ORCID:[0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
 
-Leave blank lines between paragraphs, tables, lists, etc.
-Start sentences on new lines.
-If you want to break a line, leave two blank spaces at the end.  
-if you want line a new line, which hopefully this is.
+Here are some more interesting things that I have been involved in:
 
-- bullet list first bullet
-- second point
-
-1. numbered item.
-1. second item.
-
-The course website is found [here](https://gis4dev.github.io).
-
-Here is some *italicized* and some **bold text**
-
-first column | second column | third column
-:----------- | :-----------: | -----------:
-left align | center align | right align
-new row | | blank centered
-
-## Blog Posts
-
-1. [Open GIScience](open-giscience)
-
-## Liam Smith
-
-1. [Liam Smith](laim-smith)
+- Reproducibility and Replicability in the human-environment and geographical sciences
+  - [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R)
+  - [GitHub Pages Blog](https://hegsrr.github.io)
+  - [GitHub Organization](https://www.github.com/HEGSRR)
+- Teaching Open Science in Geography and Open Source GIS
+  - [GIS4DEV](https://gis4dev.github.io/), with curricula through 2021
+  - [OpenGISci](https://opengisci.github.io/), with curricula in development for fall 2023
+- [Landscape Restoration Pilot Field Course](https://storymaps.arcgis.com/stories/79c5ac661778480ab8387426d8788ac2), led by Dr Niwaeli Kimambo in January 2023
+- [Atlas of Hope and Wisdom for a Changing Climate](https://sites.google.com/middlebury.edu/adapt/home), a product of our Spring 2021 senior seminar
