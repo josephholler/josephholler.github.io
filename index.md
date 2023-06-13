@@ -28,6 +28,6 @@ I discovered geography through Ihungo Secondary School's advanced-level history-
 When I returned to the United States, I enrolled in a Geography PhD and Geographic Information Science (GISCience) NSF IGERT (Integrative Graduate Education and Research Traineeship) Fellowship at the National Center for Geographic Information and Analysis (NCGIA) at SUNY Buffalo.
 I returned to Tanzania to work with the Jane Goodall Institute in Dar es Salaam and Moshi in preparation for dissertation research on climate change vulnerability and adaptation on Mount Kilimanjaro.
 
-Just as I was finishing my dissertation in 2012, the University of Mary Washington needed a one year leave replacement for Stephen Hannah's sabbatical researching historical monuments in Fredericksburg, VA.
+Just as I was finishing my dissertation in 2012, the University of Mary Washington needed a one year leave replacement for Steve Hannah's sabbatical researching historical monuments in Fredericksburg, VA.
 The next year, I joined the [Middlebury College Department of Geography](https://www.middlebury.edu/college/academics/geography) as a GIS Teaching Fellow.
 I am now an assistant professor at Middlebury, teaching courses on hazards, GIS, Open GIScience, and climate adaptation and development.
