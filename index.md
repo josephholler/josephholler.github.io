@@ -19,7 +19,7 @@ Recent projects and activities:
 
 ## Minimal Bio
 
-I am a human geographer and geographic information scientist with interest in open science and reproducibility of geographic research, and in applying geographic research to global challenges of climate change, hazards, social vulnerability, and social inequality and injustice.
+I am a human geographer and geographic information scientist with interest in open science and reproducibility of geographic research, and in applying geographic research to global challenges of climate change, hazards, social vulnerability, and social inequality and justice.
 
 I earned my bachelor's degree in anthropology/archeology, computer science, and media studies at Ithaca College.
 After graduating, I taught math and information technology in Tanzanian secondary schools as a Peace Corps volunteer---first in the outskirts of Mwanza and then in Bukoba.
