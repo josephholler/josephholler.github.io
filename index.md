@@ -19,7 +19,8 @@ ORCID [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) 00
 
 ## Minimal Bio
 
-I am a human geographer and geographic information scientist with interest in open science and reproducibility of geographic research, and in applying geographic research to global challenges of climate change, hazards, social vulnerability, and social inequality and justice.
+I am a human geographer and geographic information scientist with interest in open science and the reproducibility of geographic research, and in applying geographic research to global challenges of climate change, hazards, social vulnerability, and social inequality and justice.
+I routinely teach courses on introductory geographic information systems, human geography of hazards, advanced open geographic information science, and climate change adaptation and development, but I have also taught  place and society, water rights and resources, political ecology, and urban geography.
 
 I earned my bachelor's degree in anthropology/archeology, computer science, and media studies at Ithaca College.
 After graduating, I taught math and information technology in Tanzanian secondary schools as a Peace Corps volunteer---first in the outskirts of Mwanza and then in Bukoba.
