@@ -2,22 +2,17 @@
 layout: default
 ---
 
-ORCID [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) 0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699)
-
+ORCID [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) 0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699) Publications
 
 ## Recent projects and activities
 
-- Reproducibility and Replicability in the human-environment and geographical sciences
-  - [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R)
-  - [GitHub Pages Blog](https://hegsrr.github.io)
-  - [GitHub Organization](https://www.github.com/HEGSRR)
-- Teaching Open Science in Geography and Open Source GIS
-  - [GIS4DEV](https://gis4dev.github.io/), with curricula through 2021
-  - [OpenGISci](https://opengisci.github.io/), with curricula in development for fall 2023
-- [Landscape Restoration Pilot Field Course](https://storymaps.arcgis.com/stories/79c5ac661778480ab8387426d8788ac2), led by Dr Niwaeli Kimambo in January 2023
-- [Atlas of Hope and Wisdom for a Changing Climate](https://sites.google.com/middlebury.edu/adapt/home), a product of our Spring 2021 senior seminar
+- Reproducibility and Replicability in the Human-environment and Geographical Sciences [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R), [GitHub Pages Blog](https://hegsrr.github.io), and [GitHub Organization](https://www.github.com/HEGSRR)
+- Teaching Open Geographic Information Science: [GIS4DEV](https://gis4dev.github.io/) (through fall 2021) and [OpenGISci](https://opengisci.github.io/) (in development for fall 2023)
+- [Landscape Restoration Pilot Field Course](https://storymaps.arcgis.com/stories/79c5ac661778480ab8387426d8788ac2) led by Dr Niwaeli Kimambo in January 2023
+- [Atlas of Hope and Wisdom for a Changing Climate](https://sites.google.com/middlebury.edu/adapt/home) for Spring 2021 senior seminar
+- [QGIS](https://qgis.org/en/site/) plugin development, including improvements to [QNEAT3](https://github.com/GIS4DEV/QNEAT3) with Kufre Udoh in 2020 and developing [MiMiGIS](https://github.com/GIS4DEV/MiMiGIS) with Maja Cannavo in 2021
 
-## Minimal Bio
+## Bio
 
 I am a human geographer and geographic information scientist with interest in open science and the reproducibility of geographic research, and in applying geographic research to global challenges of climate change, hazards, social vulnerability, and social inequality and justice.
 I routinely teach courses on introductory geographic information systems, human geography of hazards, advanced open geographic information science, and climate change adaptation and development, but I have also taught  place and society, water rights and resources, political ecology, and urban geography.
