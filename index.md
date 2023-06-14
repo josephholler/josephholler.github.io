@@ -2,8 +2,6 @@
 layout: default
 ---
 
-ORCID [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png) 0000-0002-2381-2699](https://orcid.org/0000-0002-2381-2699) Publications
-
 ## Recent projects and activities
 
 - Reproducibility and Replicability in the Human-environment and Geographical Sciences [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R), [GitHub Pages Blog](https://hegsrr.github.io), and [GitHub Organization](https://www.github.com/HEGSRR)
