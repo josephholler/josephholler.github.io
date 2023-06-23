@@ -30,4 +30,4 @@ I am now an assistant professor at Middlebury, teaching courses on hazards, GIS,
 
 ### Bio according to a toddler
 
-As I near the end of my first sabbatical in Summer 2023, my 20-month old son associates me with a giant teddy bear, horses, piggy-back rides, hiking, bicycles, rivers, and pancakes.
+My 20-month old son associates me with a giant teddy bear, horses, piggy-back rides, hiking, bicycles, rivers, and pancakes.
