@@ -27,3 +27,7 @@ I returned to Tanzania to work with the [Jane Goodall Institute](https://janegoo
 Just as I was finishing my dissertation in 2012, the [University of Mary Washington](https://cas.umw.edu/geography/) needed a one year leave replacement to teach human geography and GIS.
 The next year, I joined the [Middlebury College Department of Geography](https://www.middlebury.edu/college/academics/geography) as a GIS Teaching Fellow.
 I am now an assistant professor at Middlebury, teaching courses on hazards, GIS, Open GIScience, and climate adaptation and development.
+
+### Bio according to a toddler
+
+As I near the end of my first sabbatical in Summer 2023, my 20-month old son associates me with a giant teddy bear, horses, piggy-back rides, hiking, bicycles, rivers, and pancakes.
