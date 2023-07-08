@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Recent projects and activities
+## Recent projects
 
 - Reproducibility and Replicability in the Human-environment and Geographical Sciences [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R), [GitHub Pages Blog](https://hegsrr.github.io), and [GitHub Organization](https://www.github.com/HEGSRR)
 - Teaching Open Geographic Information Science: [GIS4DEV](https://gis4dev.github.io/) (through fall 2021) and [OpenGISci](https://opengisci.github.io/) (in development for fall 2023)
@@ -21,7 +21,7 @@ I discovered geography through Ihungo Secondary School's advanced-level combinat
 Then on a weekend mountain bike trip to visit an information technology NGO in Kayanga, I did some research on graduate programs in geographic information systems (GIS) using their satellite internet connection.
 Thank you, Joseph Sekiku and [FADECO](https://www.fadeco.co.tz/)!
 
-When I returned to the United States, I enrolled in a Geography PhD and Geographic Information Science (GISCience) IGERT (Integrative Graduate Education and Research Traineeship) NSF Fellowship at the National Center for Geographic Information and Analysis (NCGIA) at the [University at Buffalo](https://www.buffalo.edu/cas/geography.html).
+When I returned to the United States, I enrolled in a Geography PhD and Geographic Information Science (GIScience) IGERT (Integrative Graduate Education and Research Traineeship) NSF Fellowship at the National Center for Geographic Information and Analysis (NCGIA) at the [University at Buffalo](https://www.buffalo.edu/cas/geography.html).
 I returned to Tanzania to work with the [Jane Goodall Institute](https://janegoodall.org/) in Dar es Salaam and Moshi in preparation for dissertation research on climate change vulnerability and adaptation on Mount Kilimanjaro.
 
 Just as I was finishing my dissertation in 2012, the [University of Mary Washington](https://cas.umw.edu/geography/) needed a one year leave replacement to teach human geography and GIS.
@@ -30,4 +30,4 @@ I am now an assistant professor at Middlebury, teaching courses on hazards, GIS,
 
 ### Bio according to a toddler
 
-My 20-month old son associates me with a giant teddy bear, horses, piggy-back rides, hiking, bicycles, rivers, and pancakes.
+At 20 months old, my son associated me with a giant teddy bear, horses, piggy-back rides, hiking, bicycles, rivers, and pancakes.
