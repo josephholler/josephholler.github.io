@@ -5,11 +5,12 @@ title: Bio
 
 ## Recent projects
 
+- Hosting a workshop on Reproducibility and Replicability in the Liberal Arts: [OSF Project](https://doi.org/10.17605/OSF.IO/GZHC8) and [website](https://hegsrr.github.io/Workshop-AALAC-RR-2024/)
 - Reproducibility and Replicability in the Human-environment and Geographical Sciences [Open Science Foundation Project](https://doi.org/10.17605/OSF.IO/C5A2R), [GitHub Pages Blog](https://hegsrr.github.io), and [GitHub Organization](https://www.github.com/HEGSRR)
 - Teaching [Open Geographic Information Science](https://opengisci.github.io/)
 - Atlas of Flood Risk and Resilience in Vermont (in progress).
 - [Landscape Restoration Pilot Field Course](https://storymaps.arcgis.com/stories/79c5ac661778480ab8387426d8788ac2) led by Dr Niwaeli Kimambo in January 2023
-- Spring 2021 Senior Seminar [Atlas of Hope and Wisdom for a Changing Climate](https://sites.google.com/middlebury.edu/adapt/home)
+- Senior Seminar [Atlas of Hope and Wisdom for a Changing Climate](https://sites.google.com/middlebury.edu/adapt/home)
 - [QGIS](https://qgis.org/en/site/) plugin development, including improvements to [QNEAT3](https://github.com/GIS4DEV/QNEAT3) with Kufre Udoh in 2020 and developing [MiMiGIS](https://github.com/GIS4DEV/MiMiGIS) with Maja Cannavo in 2021
 
 ## Bio
