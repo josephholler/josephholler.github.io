@@ -35,3 +35,4 @@ I am now an assistant professor at Middlebury, teaching courses on hazards, GIS,
 ### Bio according to a toddler
 
 At 20 months old, my son associated me with a giant teddy bear, horses, piggy-back rides, hiking, bicycles, rivers, and pancakes.
+At 3 years old, it's pretty much the same, except that Legos have superseded the giant teddy bear.
